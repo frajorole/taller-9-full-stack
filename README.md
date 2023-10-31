@@ -6,9 +6,10 @@
 <h2>Link de la pagina web</h2>
 
 <h2>Punto 1: Link de Figma</h2>
-<a href="https://www.figma.com/file/UoD098VwARIwpQw6jxQMl7/FRANCIA-JOHANA-RODRIGUEZ-LEON?type=design&mode=design&t=sZZIqQWFatA0irTr-0">
+<a href="https://www.figma.com/file/UoD098VwARIwpQw6jxQMl7/FRANCIA-JOHANA-RODRIGUEZ-LEON?type=design&mode=design&t=sZZIqQWFatA0irTr-0">Link de Figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
+<img src="../public/images/punto2.png" alt="punto2">
 
 <h2>Punto 3: Diseño con CSS</h2>
 
