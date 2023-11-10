@@ -4,6 +4,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Link de la pagina web</h2>
+ <a href="https://frajorole.github.io/taller-9-full-stack/">Link de pagina web</a>
 
 <h2>Punto 1: Link de Figma</h2>
 <a href="https://www.figma.com/file/UoD098VwARIwpQw6jxQMl7/FRANCIA-JOHANA-RODRIGUEZ-LEON?type=design&mode=design&t=sZZIqQWFatA0irTr-0">Link de Figma</a>
